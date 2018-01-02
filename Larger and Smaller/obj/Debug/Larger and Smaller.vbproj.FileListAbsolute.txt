@@ -1,0 +1,12 @@
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\bin\Debug\Larger and Smaller.exe.config
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\bin\Debug\Larger and Smaller.exe
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\bin\Debug\Larger and Smaller.pdb
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\bin\Debug\Larger and Smaller.xml
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\obj\Debug\WindowsApp1.Form1.resources
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.exe
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.xml
+A:\Cincinnati State\.NET programming\Week Six & Seven\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.pdb
